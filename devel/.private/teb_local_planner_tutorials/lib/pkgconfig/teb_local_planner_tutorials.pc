@@ -1,0 +1,8 @@
+prefix=/home/tobiwg/local_planer_ws/devel/.private/teb_local_planner_tutorials
+
+Name: teb_local_planner_tutorials
+Description: Description of teb_local_planner_tutorials
+Version: 0.2.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

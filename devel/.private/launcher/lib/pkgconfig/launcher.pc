@@ -1,0 +1,8 @@
+prefix=/home/tobiwg/local_planer_ws/devel/.private/launcher
+
+Name: launcher
+Description: Description of launcher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

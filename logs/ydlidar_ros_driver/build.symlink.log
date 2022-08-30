@@ -1,0 +1,4 @@
+Symlinking /home/tobiwg/local_planer_ws/devel/share/ydlidar_ros_driver/cmake/ydlidar_ros_driverConfig-version.cmake
+Symlinking /home/tobiwg/local_planer_ws/devel/share/ydlidar_ros_driver/cmake/ydlidar_ros_driverConfig.cmake
+Symlinking /home/tobiwg/local_planer_ws/devel/lib/pkgconfig/ydlidar_ros_driver.pc
+Symlinking /home/tobiwg/local_planer_ws/devel/lib/ydlidar_ros_driver/ydlidar_ros_driver_node

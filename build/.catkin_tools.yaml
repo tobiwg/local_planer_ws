@@ -1,0 +1,6 @@
+devel_space: /home/tobiwg/local_planer_ws/devel
+install: false
+install_space: /home/tobiwg/local_planer_ws/install
+profile: default
+source_space: /home/tobiwg/local_planer_ws/src
+workspace: /home/tobiwg/local_planer_ws

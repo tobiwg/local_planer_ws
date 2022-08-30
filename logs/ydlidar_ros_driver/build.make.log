@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target ydlidar_ros_driver_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/ydlidar_ros_driver_node.dir/src/ydlidar_ros_driver.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/tobiwg/local_planer_ws/devel/.private/ydlidar_ros_driver/lib/ydlidar_ros_driver/ydlidar_ros_driver_node[0m
+[100%] Built target ydlidar_ros_driver_node
