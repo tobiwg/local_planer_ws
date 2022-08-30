@@ -1,0 +1,5 @@
+<launch>
+	<include file="$(find ydlidar_ros_driver)/launch/X4.launch"/>
+	<include file="$(find costmap_2d)/launch/example.launch"/>
+	<node type="rviz" name="rviz" pkg="rviz" args="-d $(find launcher)/rviz/config_file.rviz" />
+</launch>
